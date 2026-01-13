@@ -1,0 +1,1 @@
+In C programming, input and output operations are handled by standard library functions defined in the `<stdio.h>` header file. The most common functions are `printf()` for output and `scanf()` for input, which use **format specifiers** to manage different data types.

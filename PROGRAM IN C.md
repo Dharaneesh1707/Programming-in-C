@@ -1,0 +1,32 @@
+C is ==a powerful, general-purpose procedural programming language==, developed in the 1970s by Dennis Ritchie, known for its speed, efficiency, and low-level memory access, making it ideal for system software like operating systems (Windows, Linux), embedded systems, databases, game engines, and compilers, while also serving as a foundation for other languages like C++ and Python. 
+
+What C is:
+
+- **[Procedural Language](https://www.google.com/search?q=Procedural+Language&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIAxAB):** Focuses on a sequence of instructions (procedures or functions).
+- **[General-Purpose](https://www.google.com/search?q=General-Purpose&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIAxAD):** Can be used for a wide variety of applications, not just a specific domain.
+- **[High Performance](https://www.google.com/search?q=High+Performance&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIAxAF):** Produces code that runs nearly as fast as assembly language.
+- **[Low-Level Access](https://www.google.com/search?q=Low-Level+Access&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIAxAH):** Gives programmers direct control over memory management.
+- **[Portable](https://www.google.com/search?q=Portable&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIAxAJ):** Code can be easily adapted to run on different platforms. 
+
+Where C is used:
+
+- **Operating Systems:** Core parts of Windows, Linux, and macOS.
+- **[Embedded Systems](https://www.google.com/search?q=Embedded+Systems&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIBRAC):** Devices like microcontrollers, printers, and smart appliances.
+- **[Databases](https://www.google.com/search?q=Databases&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIBRAE):** Engines for systems like MySQL.
+- **[Game Development](https://www.google.com/search?q=Game+Development&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIBRAG):** Performance-critical game engines (e.g., parts of Doom).
+- **Compilers & Interpreters:** Building tools for other languages (e.g., CPython).
+- **[Networking](https://www.google.com/search?q=Networking&oq=What+is+C+%26+where+it+is+used&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCTM1MTJqMGoxNagCCLACAfEF9drWkqM2iXI&sourceid=chrome&ie=UTF-8&mstk=AUtExfBujA1CZMdnSRMMx-QHVbdwhK4c9TqvHg1LCH_bEVsiEkCEUV6RA855Q573cv62JOR6lfH4aY1k7A_sKbyAxUBWG8TLu_5BgduuAdjx2gVmQyLu7E-SI7Kurhq7JnE0mAvRd05faeQrxKbuyGFqRMsf0MsruaFnY2y_9-fz-demiio&csui=3&ved=2ahUKEwjiqbe3zICSAxWKUWwGHTA4JvcQgK4QegQIBRAJ):** Network drivers, protocols, and utilities.
+- **Scientific Computing:** Numerical analysis and simulations.
+- **Text Editors & IDEs:** Lightweight applications like Notepad++
+
+
+**NEXT UP DIVING IN
+
+*[[STRUCTURE OF C]]
+[[compilation process in c programming]]
+[[Keywords & identifiers in c]]
+[[DATA TYPES]]
+[[Variables & constants]]
+[[INPUT AND OUTPUL IN[
+[ARITHAMETIC OPERATOR]
+
